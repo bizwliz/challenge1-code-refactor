@@ -2,6 +2,8 @@
 
 For the first challenge of this bootcamp it will be going over the importance of semantics as well as anti-semantics, the importance of consolidation for a cleaner and easy to read code, and how to and why your projects should always include a README file. 
 
+---
+
 - What was your motivation?
 To understand the basic foundation of coding
 - Why did you build this project? 
@@ -10,6 +12,8 @@ Gained knowledge and hours on coding to advance in a timely manner
 the ability to create a clean code as well as get familiar with semantics
 - What did you learn?
 I learned how to identify and label semantics as well as how to consolidate a css coding to not take up unnecessary space. 
+
+---
 
 ## Installation
 <ol>
@@ -23,21 +27,19 @@ I learned how to identify and label semantics as well as how to consolidate a cs
     <li>Submit Github Repository Link and Deployed live website link</li>
 </ol>
 
+---
+
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Link to website: 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+<img src="./Assets/screen_shot.png">
 
 ## Credits
 
 I truly benefited from working alongside my piers:
 <ul>
-    <li> Annie Sosa</li>
+    <li>Annie Sosa</li>
     <li>Jovanni Bogardus</li>
     <li>Rujaine Mena</li>
     <li>Mia Olmedillo</li>
@@ -52,4 +54,4 @@ The link to W3 Schools also helped my understanding of semantics and anti semant
 ---
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Tested using VS Code.
