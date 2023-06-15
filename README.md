@@ -35,6 +35,8 @@ Link to website: https://bizwliz.github.io/challenge1-code-refactor/
 
 <img src="./assets/images/screen_shot.png">
 
+---
+
 ## Credits
 
 I truly benefited from working alongside my piers:
@@ -47,11 +49,14 @@ I truly benefited from working alongside my piers:
 </ul>
 The link to W3 Schools also helped my understanding of semantics and anti semantics: <a href="https://www.w3schools.com/html/html5_semantic_elements.asp">W3 Schools</a>
 
+---
+
 ## License
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
+
 ## Tests
 
 Tested using VS Code.
