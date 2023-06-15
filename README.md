@@ -31,9 +31,9 @@ I learned how to identify and label semantics as well as how to consolidate a cs
 
 ## Usage
 
-Link to website: 
+Link to website: https://bizwliz.github.io/challenge1-code-refactor/
 
-<img src="./Assets/screen_shot.png">
+<img src="./assets/images/screen_shot.png">
 
 ## Credits
 
